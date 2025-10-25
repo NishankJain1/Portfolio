@@ -18,8 +18,8 @@ const Hero = () => {
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>I am a software developer <br className='sm:block hidden'/> I create full stack application including backend and frontend</p>
       </div>
     </div>
-     <InteractiveTextNodes /> 
-    {/* <ComputersCanvas /> */}
+     {/* <InteractiveTextNodes />  */}
+    <ComputersCanvas /> 
 
 
     <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
